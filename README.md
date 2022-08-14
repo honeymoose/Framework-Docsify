@@ -5,6 +5,33 @@ GitHub 上有关 CWIKIUS 的项目：[https://github.com/cwiki-us-docs/cwikius-d
 
 [联系我们](CONTACT.md ':include')
 
+## 如何本地运行
+本项目使用 docsify 进行构建。
+
+### 安装 docsify
+如果你的本地计算机中没有安装 docsify， 请运行命令行 `npm i docsify-cli -g` 来进行安装。
+
+### 版本检查
+运行命令 `docsify -version` 来进行版本和环境检查，如果你能看到下面的内容，则说明已经安装成功了。
+
+```text
+docsify-cli version:
+  4.4.3
+```
+
+### 本地运行 docsify
+在你的本地计算机终端中运行命令 `docsify serve ./` 后，你的控制台将会看到有余下的输出：
+
+```text
+PS D:\WorkDir\Repository\honeymoose\Framework-Docsify> docsify serve ./
+
+Serving D:\WorkDir\Repository\honeymoose\Framework-Docsify now.
+Listening at http://localhost:3000
+
+```
+
+访问使用的默认端口是 3000，随后你可以通过浏览器进行访问。
+
 ## CWIKIUS 文档和手册快速导航
 
 在下面的表格中，我们列出了一些比较有用的 CWIKIUS 相关软件开发使用教程的导航，在我们文档的整理中，也参考了一些这些文档。
