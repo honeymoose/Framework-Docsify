@@ -1,7 +1,7 @@
 # CWIKIUS 文档和手册
 欢迎来到 CWIKIUS 文档和手册的空间
 
-GitHub 上有关 CWIKIUS 的项目：[https://github.com/cwiki-us-docs/cwikius-docs](https://github.com/cwiki-us-docs/cwikius-docs)
+GitHub 上有关 CWIKIUS 的项目：[https://src.ossez.com/honeymoose/Framework-Docsify](https://src.ossez.com/honeymoose/Framework-Docsify)
 
 [联系我们](CONTACT.md ':include')
 
