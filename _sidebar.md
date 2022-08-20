@@ -10,7 +10,6 @@
 - 其他小工具
   - [JWT](jwt/README.md)
   - [MessagePack](message-pack/index.md)
-  - [Protocol Buffers](protocol-buffers/index.md)
   - [Discourse](discourse/index.md)
 
 - 面试和算法
